@@ -1,0 +1,6 @@
+/weatherproject/local_settings.py
+*.log
+*.pyc
+__pycache__/
+db-volumes/
+db.sqlite3
